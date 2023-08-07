@@ -17,7 +17,7 @@ The project uses the [Pistachio Image Dataset]([https://cocodataset.org/](https:
 1. Clone the repository to your local machine:
 
 ```
-git clone https://github.com/yourusername/ai-image-captioning.git
+git clone https://github.com/abulgit/ai-image-captioning.git
 cd ai-image-captioning
 ```
 
